@@ -1,2 +1,2 @@
-# Python_course Stepic От основ программирования на Python до разработки игр
+# Python_course Stepik От основ программирования на Python до разработки игр
 
